@@ -41,15 +41,6 @@ The project is designed to be 100% transparent, hackable, and privacy-conscious:
 
 ---
 
-## Downloads & Safety
-
-* **Download APK**: Obtain the pre-compiled APK directly from the [GitHub Releases (v7.0.0)](https://github.com/agupta07505/SmartIsland/releases/latest) page.
-* **Total Downloads**: ![Total Downloads](https://img.shields.io/github/downloads/agupta07505/SmartIsland/total?color=2ea44f&logo=github)
-* **Telegram Channel**: Join our active community at [telegram.me/SmartIslandApp](https://telegram.me/SmartIslandApp) to suggest features, get support, and discuss updates.
-* **Security Verification**: To ensure complete safety, inspect packages via [VirusTotal](https://www.virustotal.com/gui/file/c07da408e7fa3e3fdeb25ec6415af07f1d56eff099840221138e9364c6065102/details) or review automatic GitHub Actions CI builds.
-
----
-
 ## Screenshots
 
 <p align="center">
