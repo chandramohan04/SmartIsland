@@ -28,14 +28,6 @@ The project is designed to be 100% transparent, hackable, and privacy-conscious:
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="assets/screenshots/01_home_try_it_out.jpg" width="24%" alt="Home Screen & Try It Out" />
-  <img src="assets/screenshots/02_layout_appearance_controls.jpg" width="24%" alt="Layout & Appearance Controls" />
-  <img src="assets/screenshots/03_notifications_privacy_rules.jpg" width="24%" alt="Notifications & OEM Privacy Rules" />
-  <img src="assets/screenshots/04_live_activities_app_alerts.jpg" width="24%" alt="Live Activities & App Alerts Manager" />
-</p>
 
 <p align="center">
   <img src="assets/screenshots/05_app_shortcuts_launcher.jpg" width="24%" alt="App Shortcuts Launcher" />
@@ -254,14 +246,4 @@ Smart Island is strictly privacy-first:
 
 ---
 
-## Contributing
-
-Contributions are warmly welcomed! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting pull requests, and use our issue templates for bug reports or feature suggestions.
-
----
-
-## License
-
-Smart Island is licensed under the [GNU General Public License v3.0](LICENSE).  
-Copyright (C) 2026 **Animesh Gupta**.
 
