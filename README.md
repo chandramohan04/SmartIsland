@@ -18,19 +18,6 @@
     <img src="https://img.shields.io/badge/VirusTotal-Scan-007ACC" alt="VirusTotal Scan" />
   </a>
 </p>
-
-<p align="center">
-  <a href="#downloads--safety">Downloads</a> |
-  <a href="#screenshots">Screenshots</a> |
-  <a href="#features">Features</a> |
-  <a href="#gesture-guide">Gesture Guide</a> |
-  <a href="#getting-started">Getting Started</a> |
-  <a href="#privacy-and-permissions">Privacy</a> |
-  <a href="ROADMAP.md">Roadmap</a> |
-  <a href="CHANGELOG.md">Changelog</a> |
-  <a href="https://telegram.me/SmartIslandApp">Telegram Community</a>
-</p>
-
 ---
 
 ## Overview
